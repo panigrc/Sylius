@@ -13,6 +13,7 @@ sylius:
             configuration: Configuration
             date: Date
             datetime: Datetime
+            float: Float
             integer: Integer
             percent: Percent
             select: Select
